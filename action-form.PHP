@@ -95,7 +95,7 @@ echo 'Submission failed! Try again Later'; // the fail case
 <br>
 <br>
 <br>
-echo readfile("cookies.php");
+
 </body>
 </html>
 
