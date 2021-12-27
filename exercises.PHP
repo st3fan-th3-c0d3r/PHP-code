@@ -305,6 +305,29 @@ echo "<br>";
 
 
 
+// age verification program
+
+$age2 = 21;
+for($age = 0; $age < 19; $age++) {
+    
+    $age1 = array($age);
+    
+};
+    
+if($age2 < max($age1))   {
+
+        
+    echo "This child is minor";
+
+} else  {
+    echo "This child is not minor";
+
+};
+
+
+echo "<br>";
+
+// age verification program ends
 
 
 
